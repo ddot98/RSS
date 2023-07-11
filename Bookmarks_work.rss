@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+ <rss version="0.91">
+
+ <channel>
+ <title>Bookmarks</title>
+ <link>https://www.google.com/bookmarks/</link>
+ <description>Bookmarks</description>
+ <language>en-us</language>
+
+<item>
+<title>Dedoimedo</title>
+<link>https://www.dedoimedo.com/index.html</link>
+</item>
+
+<item>
+<title>Gas Buddy</title>
+<link>https://www.gasbuddy.com/gaspricemap?country=can</link>
+</item>
+
+<item>
+<title>GeekHack</title>
+<link>http://geekhack.org/</link>
+</item>
+
+<item>
+<title>Library</title>
+<link>http://www.tracpac.ab.ca/</link>
+</item>
+
+<item>
+<title>McBain Used Equipment</title>
+<link>https://www.mcbaincamera.com/products.php?product_type=Used%20Equipment</link>
+</item>
+
+<item>
+<title>Memory Express</title>
+<link>http://www.memoryexpress.com/</link>
+</item>
+
+<item>
+<title>Low End Talk</title>
+<link>https://lowendtalk.com/</link>
+</item>
+
+<item>
+<title>NHL Cult of Hockey</title>
+<link>https://edmontonjournal.com/category/sports/hockey/nhl/cult-of-hockey/</link>
+</item>
+
+<item>
+<title>NHL Scores (ESPN)</title>
+<link>http://www.espn.com/nhl/scoreboard</link>
+</item>
+
+<item>
+<title>NHL Scores (NHL.com)</title>
+<link>http://www.nhl.com/scores/</link>
+</item>
+
+<item>
+<title>Toyota Nation</title>
+<link>http://www.toyotanation.com/forum/310-camry-7th-generation-2012-2017/</link>
+</item>
+
+<item>
+<title>TSX Price</title>
+<link>http://ca.finance.yahoo.com/</link>
+</item>
+
+<item>
+<title>Wilders Security</title>
+<link>http://www.wilderssecurity.com/</link>
+</item>
+
+ </channel>
+ </rss>
+ 

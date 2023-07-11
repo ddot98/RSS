@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+ <rss version="0.91">
+
+ <channel>
+ <title>RFD</title>
+ <link>https://www.redflagdeals.com/</link>
+ <description>RFD</description>
+ <language>en-us</language>
+
+<item>
+<title>Cell Phones</title>
+<link>https://forums.redflagdeals.com/cell-phones-f88/</link>
+</item>
+
+<item>
+<title>Computers / Electronics</title>
+<link>https://forums.redflagdeals.com/computers-electronics-f14/</link>
+</item>
+
+<item>
+<title>Credit Cards</title>
+<link>https://forums.redflagdeals.com/credit-cards-f189/</link>
+</item>
+
+<item>
+<title>Personal Finance</title>
+<link>https://forums.redflagdeals.com/personal-finance-f41/</link>
+</item>
+
+<item>
+<title>Investing</title>
+<link>https://forums.redflagdeals.com/investing-f134/</link>
+</item>
+
+<item>
+<title>Hot Deals</title>
+<link>https://forums.redflagdeals.com/hot-deals-f9/</link>
+</item>
+
+<item>
+<title>Automotive</title>
+<link>https://forums.redflagdeals.com/automotive-f40/</link>
+</item>
+
+<item>
+<title>Ongoing</title>
+<link>https://forums.redflagdeals.com/ongoing-deal-discussion-f129/</link>
+</item>
+
+<item>
+<title>Free</title>
+<link>https://forums.redflagdeals.com/freebies-f12/</link>
+</item>
+
+ </channel>
+ </rss>
+ 
